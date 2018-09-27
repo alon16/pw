@@ -1,0 +1,7 @@
+<?php
+    namespace pruebaBundle\Document;
+    class Product {
+      protected $name;
+      protected $price;
+    }
+?>

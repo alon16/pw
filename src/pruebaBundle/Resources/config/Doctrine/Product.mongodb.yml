@@ -1,0 +1,8 @@
+pruebaBundle\Document\Product:
+    fields:
+        id:
+            id:  true
+        name:
+            type: string
+        price:
+            type: float
